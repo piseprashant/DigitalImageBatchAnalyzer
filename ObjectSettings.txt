@@ -1,0 +1,5 @@
+[IPO-Stack Setting File]
+67890
+Threshold#@#128@&@
+69124
+Threshold#@#128@&@R#@#128@&@G#@#128@&@B#@#128@&@
